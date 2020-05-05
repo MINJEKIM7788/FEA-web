@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+  <title> MJ's life</title>
+</head>
+<body>
+  <h1>List of mechanical softwears</h1>
+  <ul>
+    <li><a href="https://www.ansys.com/about-ansys"</a>1. Ansys</li>
+    <li><a href="2.Solidworks">2. Solidworks</li>
+    <li><a href="3.Catia">3. Catia</li>
+    <li><a href="4.Nx12">4. Nx12</li>
+  </ul>
+  <h1>FEA</h1>
+  <p><strong>The finite element method <u><a href="https://en.wikipedia.org/wiki/Finite_element_method">(FEM)</a></u></strong> is the most widely used method for solving problems of engineering and mathematical models.</p>
+  <img src="data.jpg" width="100%">
+  <p style="margin-top:40px;">And also blablablabl</p>
+</body>
+</html>
